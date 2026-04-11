@@ -4,12 +4,10 @@
   "edtVersion": "",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
-  "defaultBranch": "storage_1c",
+  "defaultBranch": "main",
   "secrets": {
     "storagePath": "Path_Otus_Storage_ID",
-    "storage": "DeployGit_id",
-    "telegramBotToken": "UNKNOWN_ID",
-    "telegramChatId": "UNKNOWN_ID"
+    "storage": "DeployGit_id"
   },
   "stages": {
     "initSteps": true,
