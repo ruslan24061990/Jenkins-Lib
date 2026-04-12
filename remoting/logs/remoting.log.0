@@ -1,10 +1,10 @@
-апр. 11, 2026 10:51:07 AM hudson.remoting.Launcher createEngine
+апр. 12, 2026 6:55:10 PM hudson.remoting.Launcher createEngine
 INFO: Setting up agent: Agent 1C
-апр. 11, 2026 10:51:07 AM hudson.remoting.Engine startEngine
+апр. 12, 2026 6:55:10 PM hudson.remoting.Engine startEngine
 INFO: Using Remoting version: 3352.v17a_fb_4b_2773f
-апр. 11, 2026 10:51:07 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+апр. 12, 2026 6:55:10 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
 INFO: Using C:\otus_dz\Jenkins-Lib\Jenkins-Lib\remoting as a remoting work directory
-апр. 11, 2026 10:51:08 AM hudson.remoting.Launcher$CuiListener status
+апр. 12, 2026 6:55:10 PM hudson.remoting.Launcher$CuiListener status
 INFO: WebSocket connection open
-апр. 11, 2026 10:51:08 AM hudson.remoting.Launcher$CuiListener status
+апр. 12, 2026 6:55:10 PM hudson.remoting.Launcher$CuiListener status
 INFO: Connected
